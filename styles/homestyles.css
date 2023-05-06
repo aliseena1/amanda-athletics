@@ -23,7 +23,7 @@ h4,h5,p{
 }
 
 .firstSection{
-    background-image:url(images/Screen\ Shot\ 2023-04-30\ at\ 5.03.10\ PM.png);
+    background-image:url(../images/Screen\ Shot\ 2023-04-30\ at\ 5.03.10\ PM.png);
     background-size: cover;
     min-height: 450px;
 }
@@ -63,7 +63,7 @@ h4,h5,p{
 }
 
 .thirdBackground{
-    background-image:url(images/istockphoto-1366052585-612x612.jpg);
+    background-image:url(../images/istockphoto-1366052585-612x612.jpg);
     background-size: cover;
     min-height: 300px;
 }
