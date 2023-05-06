@@ -226,3 +226,14 @@ input[type="text"],input[type="email"]{
 .buttonSubmit:hover{
     background-color:#55a1a6;
 }
+
+@media screen and (max-width: 480px){
+
+.amandaButton{
+    width: 50%;
+}
+
+.registerButton{
+    width: 100%;
+}
+}
