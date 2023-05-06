@@ -19,7 +19,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
  }
- 
+
  
  .about {
     text-align: center;
@@ -48,7 +48,7 @@ body{
     margin: 20px;
     min-height: 50vh;
     width: 450px;
-    background-image: url(/images/amandarun.jpeg);
+    background-image:url(images/amandarun.jpeg);
     background-size: cover;
   
  }
@@ -59,7 +59,7 @@ body{
     margin: 20px;
     min-height: 50vh;
     width: 450px;
-    background-image: url(/images/Screen\ Shot\ 2023-05-06\ at\ 2.28.26\ PM.jpeg);
+    background-image: url(images/Screen\ Shot\ 2023-05-06\ at\ 2.28.26\ PM.jpeg);
     background-size: cover;
  }
  
@@ -69,7 +69,7 @@ body{
     margin: 20px;
     min-height: 50vh;
     width: 450px;
-    background-image: url(/images/amandawaterfall.png);
+    background-image: url(images/amandawaterfall.png);
     background-size: cover;
  }
  
